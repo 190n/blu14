@@ -80,10 +80,10 @@ modules:
       # this sets up the proper policy & signing files for signed images to work
       - signing.sh
 
-  - type: fonts
-    fonts:
-      nerd-fonts:
-        - Iosevka
-      google-fonts:
-        - Roboto
-        - Inter
+  # - type: fonts
+  #   fonts:
+  #     nerd-fonts:
+  #       - Iosevka
+  #     google-fonts:
+  #       - Roboto
+  #       - Inter
